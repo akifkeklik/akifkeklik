@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/akifkeklik" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="akifkeklik" height="30" width="30" />
 </a>
-<a href="https://medium.com/@akifkeklik" target="blank">
+<a href="https://medium.com/@yazilimci3590" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akifkeklik" height="30" width="30" />
 </a>
 </p>
