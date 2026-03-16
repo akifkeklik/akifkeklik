@@ -41,16 +41,4 @@
 
 ---
 
-### 📂 Featured Projects
-
-🔹 **Task Management API**  
-Java + Spring Boot REST API for managing tasks.
-
-🔹 **Customer Churn Prediction**  
-Machine learning project predicting customer churn.
-
-🔹 **Algorithms Practice**  
-Collection of common coding interview problems.
-
----
 
