@@ -28,16 +28,15 @@
 
 ### 🚀 Languages and Tools
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+% Teknik Yetenekler - İkonlarla Uyumlu ve Genişletilmiş
+\section*{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, labelsep=0.5em, itemsep=-2pt]
+    \item \textbf{Languages:} Java, Python, JavaScript, SQL, Dart (Flutter)
+    \item \textbf{Backend Frameworks:} \textbf{Spring Boot} (MVC, Data JPA, Security), Node.js, Flask
+    \item \textbf{Databases:} \textbf{PostgreSQL}, MySQL, SQLite, MongoDB
+    \item \textbf{DevOps \& Tools:} \textbf{Docker}, \textbf{Git}, \textbf{Postman}, Swagger/OpenAPI, Maven
+    \item \textbf{Frontend \& Mobile:} Vue.js, Vuetify, HTML5, CSS3, Flutter
+\end{itemize}
 
 ---
 
