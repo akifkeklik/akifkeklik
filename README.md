@@ -8,6 +8,7 @@
 - 🎓 Software Engineering student at **Manisa Celal Bayar University**
 - 💻 Focused on **Java Backend Development**
 - 🤖 Interested in **Artificial Intelligence and Data Systems**
+- 🌱 I’m currently learning Java and Spring Boot
 - 🚀 Currently building **Spring Boot & Machine Learning projects**
 - 📫 Reach me at **akifkeklik35@gmail.com**
 
