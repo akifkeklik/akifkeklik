@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **Manisa Celal Bayar University**
 - 💻 Focused on **Java Backend Development**
 - 🤖 Interested in **Artificial Intelligence and Data Systems**
 - 🌱 I’m currently learning Java and Spring Boot
