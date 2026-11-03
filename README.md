@@ -1,42 +1,51 @@
-<h1 align="center">Hi 👋, I'm Akif Keklik</h1>
-<h3 align="center">Software Engineer | Backend Developer | AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Akif Keklik 👋</h1>
+<h3 align="center">Software Engineering Graduate | Aspiring Backend Developer</h3>
 
----
-
-### 👨‍💻 About Me
-
-- 💻 Focused on **Java Backend Development**
-- 🤖 Interested in **Artificial Intelligence and Data Systems**
-- 🌱 I’m currently learning Java and Spring Boot
-- 🚀 Currently building **Spring Boot & Machine Learning projects**
-- 📫 Reach me at **akifkeklik35@gmail.com**
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/akifkeklik" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="akifkeklik" height="30" width="30" />
-</a>
-<a href="https://medium.com/@yazilimci3590" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="akifkeklik" height="30" width="30" />
-</a>
+<p align="center">
+  I’m a recent Software Engineering graduate interested in backend development and building practical software projects.
 </p>
 
 ---
 
-### 🚀 Languages and Tools
+### About Me
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
+- 🎓 Software Engineering graduate from Manisa Celal Bayar University.
+- ☕ Currently focusing on **Java and Spring Boot**.
+- 🔧 Learning to build REST APIs, work with relational databases, and write maintainable backend code.
+- 🤖 Interested in practical applications of AI and data-driven systems.
+- 🧩 I build projects as a way to learn, experiment, and improve my engineering skills.
+- 🛠️ I use AI-assisted development tools in my workflow, while working to understand, review, test, and take responsibility for the code.
+
+### Featured Projects
+
+- **[Hospital Management System](https://github.com/akifkeklik/hospital-management-system)**  
+  A full-stack hospital management application with a Java Spring Boot backend.
+
+- **[Libris – Book & Knowledge Platform](https://github.com/akifkeklik/book-ai-app)**  
+  A multi-platform project exploring book discovery, recommendations, and AI-assisted knowledge features.
+
+- **[Jeweler Pro](https://github.com/akifkeklik/jeweler-pro)**  
+  A business management application for customers, products, sales, and inventory.
+
+- **[Weather Forecast App](https://github.com/akifkeklik/weather-forecast-app)**  
+  A weather application built with Next.js and TypeScript, including server-side API integration.
+
+### Technologies
+
+**Currently focusing on:**  
+Java · Spring Boot · REST APIs · SQL
+
+**Also used in projects:**  
+Python · JavaScript · TypeScript · React · Next.js · Flask · Flutter · PostgreSQL · MySQL · MongoDB · Git · Docker
+
+### Connect
+
+- [LinkedIn](https://linkedin.com/in/akifkeklik)
+- [Medium](https://medium.com/@yazilimci3590)
+- Email: akifkeklik35@gmail.com
 
 ---
+
+<p align="center">
+  <i>Learning by building, improving through practice.</i>
+</p>
