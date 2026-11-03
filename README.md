@@ -1,54 +1,54 @@
-<h1 align="center">Hi, I'm Akif Keklik 👋</h1>
-<h3 align="center">Software Engineering Graduate | Aspiring Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-  I’m a recent Software Engineering graduate interested in backend development and building practical software projects.
-</p>
+# Akif Keklik
+
+**Software Engineering Graduate · Backend Development**
+
+I build practical applications and focus on writing reliable, maintainable backend software.
+
+[![GitHub](https://img.shields.io/badge/GitHub-akifkeklik-181717?logo=github)](https://github.com/akifkeklik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akifkeklik)
+
+</div>
 
 ---
 
-### About Me
+## About
 
-- 🎓 Software Engineering graduate from Manisa Celal Bayar University.
-- ☕ Currently focusing on **Java and Spring Boot**.
-- 🔧 Learning to build REST APIs, work with relational databases, and write maintainable backend code.
-- 🤖 Interested in practical applications of AI and data-driven systems.
-- 🧩 I build projects as a way to learn, experiment, and improve my engineering skills.
-- 🛠️ I use AI-assisted development tools in my workflow, while working to understand, review, test, and take responsibility for the code.
+- Software Engineering graduate from **Manisa Celal Bayar University**.
+- Currently developing my backend skills with **Java, Spring Boot, and SQL**.
+- Interested in REST API design, application security, relational databases, and clean code.
+- Also explore Python, TypeScript, and practical AI-powered features.
+- I use AI-assisted tools as part of my workflow, while reviewing, testing, and taking responsibility for the code I publish.
 
-### Featured Projects
+## Selected Projects
 
-- **[Hospital Management System](https://github.com/akifkeklik/hospital-management-system)**  
-  A full-stack hospital management application with a Java Spring Boot backend.
+| Project | Overview | Stack |
+| --- | --- | --- |
+| [Hospital Management System](https://github.com/akifkeklik/hospital-management-system) | Role-based hospital workflows, appointment scheduling, and patient management | Java, Spring Boot, Next.js, MySQL |
+| [E-Commerce Backend](https://github.com/akifkeklik/ecommerce-backend) | Authentication, catalogue, cart, order management, and stock handling | Java, Spring Boot, PostgreSQL |
+| [Libris](https://github.com/akifkeklik/book-ai-app) | Book discovery, reading management, recommendations, and personal knowledge features | Python, Flask, Next.js, Flutter, PostgreSQL |
+| [Jeweler Pro](https://github.com/akifkeklik/jeweler-pro) | Business workflows for customers, products, sales, and inventory | Vue, TypeScript, Node.js, MongoDB |
+| [Weather Forecast App](https://github.com/akifkeklik/weather-forecast-app) | City-based weather search with server-side API integration and caching | Next.js, TypeScript |
 
-- **[E-Commerce Backend](https://github.com/akifkeklik/ecommerce-backend)**  
-  A Java Spring Boot learning project focused on JWT authentication, products, carts, orders, and PostgreSQL.
+## Technologies
 
-- **[Libris – Book & Knowledge Platform](https://github.com/akifkeklik/book-ai-app)**  
-  A multi-platform project exploring book discovery, recommendations, and AI-assisted knowledge features.
+**Current focus**
 
-- **[Jeweler Pro](https://github.com/akifkeklik/jeweler-pro)**  
-  A business management application for customers, products, sales, and inventory.
+Java · Spring Boot · REST APIs · SQL · PostgreSQL
 
-- **[Weather Forecast App](https://github.com/akifkeklik/weather-forecast-app)**  
-  A weather application built with Next.js and TypeScript, including server-side API integration.
+**Experience through projects**
 
-### Technologies
+Python · Flask · JavaScript · TypeScript · React · Next.js · Flutter · MySQL · MongoDB · Docker · Git
 
-**Currently focusing on:**  
-Java · Spring Boot · REST APIs · SQL
-
-**Also used in projects:**  
-Python · JavaScript · TypeScript · React · Next.js · Flask · Flutter · PostgreSQL · MySQL · MongoDB · Git · Docker
-
-### Connect
+## Connect
 
 - [LinkedIn](https://linkedin.com/in/akifkeklik)
 - [Medium](https://medium.com/@yazilimci3590)
-- Email: akifkeklik35@gmail.com
+- [GitHub](https://github.com/akifkeklik)
 
----
+<div align="center">
 
-<p align="center">
-  <i>Learning by building, improving through practice.</i>
-</p>
+*Learning by building. Improving through review and practice.*
+
+</div>
