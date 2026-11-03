@@ -21,6 +21,9 @@
 - **[Hospital Management System](https://github.com/akifkeklik/hospital-management-system)**  
   A full-stack hospital management application with a Java Spring Boot backend.
 
+- **[E-Commerce Backend](https://github.com/akifkeklik/ecommerce-backend)**  
+  A Java Spring Boot learning project focused on JWT authentication, products, carts, orders, and PostgreSQL.
+
 - **[Libris – Book & Knowledge Platform](https://github.com/akifkeklik/book-ai-app)**  
   A multi-platform project exploring book discovery, recommendations, and AI-assisted knowledge features.
 
