@@ -80,12 +80,6 @@ I build business applications where correctness matters (money, stock, health re
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
-## 🎓 Background
-
-- Software Engineering graduate, **Manisa Celal Bayar University**
-- Interests: REST API design, application security, relational and document databases, clean architecture
-
-<div align="center">
 
 *Learning by building. Improving through review and practice.*
 
