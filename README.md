@@ -79,12 +79,6 @@ I build business applications where correctness matters (money, stock, health re
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 🧭 How I work
-
-- **Correctness first.** Money in integer minor units, database transactions for business events, and tests with expected values I calculate by hand.
-- **Security by default.** Vetted libraries for auth and validation, tenant isolation, least privilege, audited changes.
-- **Small, reviewable changes.** Conventional commits, CI on every pull request, documented decisions (ADRs).
-- **AI-assisted, human-owned.** I use AI tools in my workflow, and I review, test and take responsibility for every line I publish.
 
 ## 🎓 Background
 
