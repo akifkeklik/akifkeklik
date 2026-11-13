@@ -2,7 +2,7 @@
 
 # Hi, I'm Akif Keklik 👋
 
-**Software Engineering Graduate | Junior Software Developer**  · İzmir, Türkiye
+**Software Engineering Graduate | Junior Software Developer**   · İzmir, Türkiye
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akifkeklik-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akifkeklik)
 [![Medium](https://img.shields.io/badge/Medium-articles-000000?logo=medium&logoColor=white)](https://medium.com/@yazilimci3590)
