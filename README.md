@@ -48,6 +48,6 @@
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[jeweler-pro](https://github.com/akifkeklik/jeweler-pro)** | Jewellery shop POS, gold-aware stock, double-entry accounting, Turkish compliance | Vue 3 · Express 5 · MongoDB · Docker |
-| **[book-ai-app](https://github.com/akifkeklik/book-ai-app)** | Book discovery, personalised recommendations, reading tracking and personal knowledge management | Python · Flask · Next.js · Flutter · PostgreSQL |
+| **[book-ai-app](https://github.com/akifkeklik/book-ai-app)** | Book discovery, personalised recommendations, reading tracking and personal knowledge management | Python · Flask · Next.js · PostgreSQL · pgvector |
 | **[hospital-management-system](https://github.com/akifkeklik/hospital-management-system)** | Role-based hospital workflows, appointment scheduling and patient management | Java · Spring Boot · Next.js · MySQL |
 | **[ecommerce-backend](https://github.com/akifkeklik/ecommerce-backend)** | Authentication, catalogue, cart, orders and stock handling | Java · Spring Boot · PostgreSQL |
