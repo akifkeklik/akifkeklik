@@ -12,9 +12,9 @@
 
 - 🛠️ **What I do:** I build complete products, covering backend, web and mobile. Tests and CI are there from the first commit.
 - 🧠 **Interested in:** financial correctness, multi-tenant systems and practical AI (RAG, recommendations).
-- 🧰 **Languages:** `TypeScript` `JavaScript` `Java` `Python` `Dart`
-- 🧱 **Frameworks:** · `Vue 3` `Next.js`  · `Express` `Spring Boot` `Flask`
-- 🗄️ **Data and delivery:** `PostgreSQL` `MongoDB` `MySQL` · `Docker` `GitHub Actions`
+- 🧰 **Languages:**  `Java` `Python` `TypeScript` `JavaScript`
+- 🧱 **Frameworks:** · `Vue 3` `Next.js`  · `Spring Boot` `Flask` `Express`
+- 🗄️ **Data and delivery:** `PostgreSQL`  `MySQL` `MongoDB`  · `Docker` `GitHub Actions`
 
 **How I work:** _no claim without a test, every change through a reviewed pull request, decisions written down._
 
