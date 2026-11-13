@@ -11,7 +11,6 @@
 </div>
 
 - 🛠️ **What I do:** I build complete products, covering backend, web and mobile. Tests and CI are there from the first commit.
-- 🔭 **Working on:** [Jeweler Pro](https://github.com/akifkeklik/jeweler-pro), point of sale, stock and double-entry accounting for jewellery shops ([**try the live demo**](https://codespaces.new/akifkeklik/jeweler-pro?quickstart=1)).
 - 🧠 **Interested in:** financial correctness, multi-tenant systems and practical AI (RAG, recommendations).
 - 🧰 **Languages:** `TypeScript` `JavaScript` `Java` `Python` `Dart`
 - 🧱 **Frameworks:** `Vue 3` `Next.js` `React` `Flutter` · `Express` `Spring Boot` `Flask`
