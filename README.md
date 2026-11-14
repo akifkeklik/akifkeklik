@@ -11,7 +11,7 @@
 </div>
 
 - 🛠️ **What I do:** I build complete products, covering backend, web and mobile. Tests and CI are there from the first commit.
-- 🧠 **Interested in:** financial correctness, multi-tenant systems and practical AI (RAG, recommendations).
+- 🧠 **Interested in:** financial correctness, multi-tenant systems and practical AI.
 - 🧰 **Languages:**  `Java` `Python` 
 - 🧱 **Frameworks:** · `Next.js` `Vue 3`  `Spring Boot` 
 - 🗄️ **Data and delivery:** `MySQL`  `PostgreSQL`  `Docker`  `GitHub Actions`
