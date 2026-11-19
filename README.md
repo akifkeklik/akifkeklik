@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akifkeklik-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akifkeklik)
 [![Medium](https://img.shields.io/badge/Medium-articles-000000?logo=medium&logoColor=white)](https://medium.com/@akifkeklik)
-[![GitHub](https://img.shields.io/badge/GitHub-akifkeklik-181717?logo=github&logoColor=white)](https://github.com/akifkeklik)
+[![DEV](https://img.shields.io/badge/Devto-akifkeklik-181717?logo=github&logoColor=white)]([https://github.com/akifkeklik](https://dev.to/akifkeklik))
 
 </div>
 
