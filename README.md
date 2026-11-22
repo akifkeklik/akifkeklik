@@ -1,21 +1,22 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Akif Keklik 👋
 
- **Software Engineering Graduate | Junior Software Developer**
+**Software Engineering Graduate | Junior Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akifkeklik-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akifkeklik)
 [![Medium](https://img.shields.io/badge/Medium-articles-000000?logo=medium&logoColor=white)](https://medium.com/@akifkeklik)
+[![DEV.TO](https://img.shields.io/badge/DEV.TO-articles-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/akifkeklik)
 
 </div>
 
 - 🛠️ **What I do:** I build complete products, covering backend, web and mobile. Tests and CI are there from the first commit.
 - 🧠 **Interested in:** financial correctness, multi-tenant systems and practical AI.
-- 🧰 **Languages:**  `Java` `Python` 
-- 🧱 **Frameworks:** · `Next.js` `Vue 3`  `Spring Boot` 
-- 🗄️ **Data and delivery:** `MySQL`  `PostgreSQL`  `Docker`  `GitHub Actions`
+- 🧰 **Languages:** `Java` `Python`
+- 🧱 **Frameworks:** `Next.js` `Vue 3` `Spring Boot`
+- 🗄️ **Data and delivery:** `MySQL` `PostgreSQL` `Docker` `GitHub Actions`
 
-**How I work:** _no claim without a test, every change through a reviewed pull request, decisions written down._
+**How I work:** *no claim without a test, every change through a reviewed pull request, decisions written down.*
 
 ---
 
