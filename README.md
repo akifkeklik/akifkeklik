@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hi, I'm Akif Keklik 👋
+# **Hi, I'm Akif Keklik 👋**
 
 **Software Engineer | Backend Developer | AI Engineer **
 
