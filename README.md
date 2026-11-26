@@ -1,8 +1,8 @@
- <div align="center">
+<div align="center">
 
-# **Hi, I'm Akif Keklik 👋**
+# Hi, I'm Akif Keklik 👋
 
- Software Engineer | Backend Development | AI Engineering 
+Software Engineer · Backend Development · AI Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akifkeklik-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/akifkeklik)
 [![Medium](https://img.shields.io/badge/Medium-articles-000000?logo=medium&logoColor=white)](https://medium.com/@akifkeklik)
@@ -10,44 +10,51 @@
 
 </div>
 
-- 🛠️ **What I do:** I build complete products, covering backend, web and mobile. Tests and CI are there from the first commit.
-- 🧠 **Interested in:** financial correctness, multi-tenant systems and practical AI.
-- 🧰 **Languages:** `Java` `Python`
-- 🧱 **Frameworks:** `Next.js` `Vue 3` `Spring Boot`
-- 🗄️ **Data and delivery:** `MySQL` `PostgreSQL` `Docker` `GitHub Actions`
+I build complete products, backend to web, with tests and CI from the first commit. I care about financial
+correctness, data isolation between users and tenants, and AI features that stay honest when the model is
+unavailable.
 
-**How I work:** *no claim without a test, every change through a reviewed pull request, decisions written down.*
+**How I work:** no claim without a test, every change through a reviewed pull request, decisions written down.
 
----
+| | |
+|---|---|
+| **Languages** | Java · Python · TypeScript · JavaScript |
+| **Frameworks** | Spring Boot · Flask · Express · Next.js · Vue 3 |
+| **Data and delivery** | PostgreSQL · MySQL · MongoDB · Supabase · Docker · GitHub Actions |
 
-## ⭐ Featured project
+## Featured projects
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/akifkeklik/jeweler-pro"><img src="https://raw.githubusercontent.com/akifkeklik/jeweler-pro/main/docs/images/dashboard.png" alt="Jeweler Pro dashboard" /></a>
-    </td>
-    <td width="45%" valign="top">
       <h3><a href="https://github.com/akifkeklik/jeweler-pro">Jeweler Pro</a></h3>
-      <p>Point of sale, stock and accounting for jewellery shops, built for the Turkish market.</p>
+      <p>Point of sale, stock and accounting for jewellery shops in Turkey.</p>
       <ul>
-        <li>Gram pricing at <b>live gold prices</b></li>
-        <li><b>Double-entry ledger</b>: one database transaction per sale</li>
-        <li>BigInt money math, no floating point</li>
-        <li>Tenant isolation enforced on every query</li>
-        <li><b>700+ tests</b>, plus end-to-end, visual and accessibility QA on every pull request</li>
-        <li>KDV, MASAK and KVKK rules, with architecture decisions documented</li>
+        <li>Gram pricing at live gold prices, <b>double-entry ledger</b>, one transaction per sale</li>
+        <li>BigInt money math, tenant isolation on every query</li>
+        <li><b>700+ tests</b>, end-to-end and accessibility checks on every pull request</li>
       </ul>
-      <p><a href="https://codespaces.new/akifkeklik/jeweler-pro?quickstart=1"><b>▶ Open the live demo</b></a></p>
+      <p><a href="https://jeweler-pro.vercel.app"><b>▶ Live demo</b></a> · Vue 3 · Express 5 · MongoDB</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/akifkeklik/libris"><img src="https://raw.githubusercontent.com/akifkeklik/libris/main/docs/screenshots/review-desktop.png" alt="Libris review cards" /></a>
+      <h3><a href="https://github.com/akifkeklik/libris">Libris</a></h3>
+      <p>Remember what you read: takeaways become AI recall questions, spaced review brings them back.</p>
+      <ul>
+        <li>Grounded AI answers from the catalogue (pgvector + Gemini), labelled fallback when offline</li>
+        <li>Row-level security tested as two readers; Kindle, Readwise and Goodreads import</li>
+        <li><b>1,300+ tests</b>, migrations validated on real PostgreSQL in CI</li>
+      </ul>
+      <p><a href="https://libris-pink.vercel.app"><b>▶ Live demo</b></a> · Next.js · Flask · Supabase</p>
     </td>
   </tr>
 </table>
 
-## 🧩 Selected projects
+## More projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[jeweler-pro](https://github.com/akifkeklik/jeweler-pro)** | Jewellery shop POS, gold-aware stock, double-entry accounting, Turkish compliance | Vue 3 · Express 5 · MongoDB · Docker |
-| **[libris](https://github.com/akifkeklik/book-ai-app)** | Book discovery, personalised recommendations, reading tracking and personal knowledge management | Python · Flask · Next.js · PostgreSQL · pgvector |
-| **[hospital-management-system](https://github.com/akifkeklik/hospital-management-system)** | Role-based hospital workflows, appointment scheduling and patient management | Java · Spring Boot · Next.js · MySQL |
-| **[ecommerce-backend](https://github.com/akifkeklik/ecommerce-backend)** | Authentication, catalogue, cart, orders and stock handling | Java · Spring Boot · PostgreSQL |
+| **[hospital-management-system](https://github.com/akifkeklik/hospital-management-system)** · [demo](https://hospital-management-system-rho-flax.vercel.app/) | Patient, doctor and admin workflows: appointments, examinations, leave, AI department routing. [Postmortem of a production outage](https://medium.com/@akifkeklik/kod-de%C4%9Fi%C5%9Fmedi%C4%9Fi-halde-site-neden-%C3%A7%C3%B6kt%C3%BC-bir-hastane-randevu-sisteminden-ger%C3%A7ek-dersler-f712205ec386) | Java · Spring Boot · Next.js · MySQL |
+| **[ecommerce-backend](https://github.com/akifkeklik/ecommerce-backend)** | Authentication, catalogue, cart and orders with row-locked stock reservation | Java · Spring Boot · PostgreSQL · Flyway |
+| **[weather-forecast-app](https://github.com/akifkeklik/weather-forecast-app)** | Current weather by city with a server-side API key, caching and request coalescing | Next.js · TypeScript |
