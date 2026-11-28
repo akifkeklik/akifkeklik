@@ -22,11 +22,6 @@ unavailable.
 | **Frameworks** | Spring Boot · Flask · Express · Next.js · Vue 3 |
 | **Data and delivery** | PostgreSQL · MySQL · MongoDB · Supabase · Docker · GitHub Actions |
 
-## Education
-
-**B.Sc. in Software Engineering**  
-Manisa Celal Bayar University · 2026
-
 ## Featured projects
 
 <table>
