@@ -55,6 +55,6 @@ unavailable.
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[hospital-management-system](https://github.com/akifkeklik/hospital-management-system)** · [demo](https://hospital-management-system-rho-flax.vercel.app/) | Patient, doctor and admin workflows: appointments, examinations, leave, AI department routing. [Postmortem of a production outage](https://medium.com/@akifkeklik/kod-de%C4%9Fi%C5%9Fmedi%C4%9Fi-halde-site-neden-%C3%A7%C3%B6kt%C3%BC-bir-hastane-randevu-sisteminden-ger%C3%A7ek-dersler-f712205ec386) | Java · Spring Boot · Next.js · MySQL |
-| **[ecommerce-backend](https://github.com/akifkeklik/ecommerce-backend)** | Authentication, catalogue, cart and orders with row-locked stock reservation | Java · Spring Boot · PostgreSQL · Flyway |
-| **[weather-forecast-app](https://github.com/akifkeklik/weather-forecast-app)** | Current weather by city with a server-side API key, caching and request coalescing | Next.js · TypeScript |
+| **[hospital-management-system](https://github.com/akifkeklik/hospital-management-system)** · [demo](https://hospital-management-system-rho-flax.vercel.app/) | Patient, doctor and admin workflows in eight languages: appointments, examinations, leave, AI department routing. [Postmortem of a production outage](https://medium.com/@akifkeklik/kod-de%C4%9Fi%C5%9Fmedi%C4%9Fi-halde-site-neden-%C3%A7%C3%B6kt%C3%BC-bir-hastane-randevu-sisteminden-ger%C3%A7ek-dersler-f712205ec386) | Java · Spring Boot · Next.js · MySQL |
+| **[ecommerce-backend](https://github.com/akifkeklik/ecommerce-backend)** | Shop API: cart, discount codes, orders with row-locked stock, payments with refunds, moderated reviews; migrations validated on real PostgreSQL in CI | Java · Spring Boot · PostgreSQL · Flyway |
+| **[weather-forecast-app](https://github.com/akifkeklik/weather-forecast-app)** | Current weather and a five-day forecast by city; server-side API key, caching and request coalescing | Next.js · TypeScript |
