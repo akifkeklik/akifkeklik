@@ -38,7 +38,7 @@ unavailable.
       <p><a href="https://jeweler-pro.vercel.app"><b>▶ Live demo</b></a> · Vue 3 · Express 5 · MongoDB</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/akifkeklik/libris"><img src="https://raw.githubusercontent.com/akifkeklik/libris/main/docs/screenshots/review-desktop.png" alt="Libris review cards" /></a>
+      <a href="https://github.com/akifkeklik/libris"><img src="https://raw.githubusercontent.com/akifkeklik/libris/main/docs/screenshots/home-desktop.png" alt="Libris home page" /></a>
       <h3><a href="https://github.com/akifkeklik/libris">Libris</a></h3>
       <p>Remember what you read: takeaways become AI recall questions, spaced review brings them back.</p>
       <ul>
